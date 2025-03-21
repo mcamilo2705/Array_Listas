@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E94CA787-3159-4DEA-9B6A-0C1B73E86A27}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\source\\repos\\array_listas\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94CA787-3159-4DEA-9B6A-0C1B73E86A27}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFF9D9-80C1-4776-A741-2D38243DDA2B}|Exemplos\\Exemplos.csproj|c:\\users\\fic\\source\\repos\\array_listas\\exemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DFF9D9-80C1-4776-A741-2D38243DDA2B}|Exemplos\\Exemplos.csproj|solutionrelative:exemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\Array_Listas\\Exemplos\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplos\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\Array_Listas\\Exemplos\\Program.cs",
+              "RelativeToolTip": "Exemplos\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:13:03.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Exercicios\\Program.cs",
               "ToolTip": "C:\\Users\\FIC\\source\\repos\\Array_Listas\\Exercicios\\Program.cs",
               "RelativeToolTip": "Exercicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T00:13:45.391Z",
               "EditorCaption": ""

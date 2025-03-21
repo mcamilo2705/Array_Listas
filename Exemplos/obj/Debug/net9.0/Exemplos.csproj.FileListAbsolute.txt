@@ -12,3 +12,4 @@ C:\Users\FIC\source\repos\Array_Listas\Exemplos\obj\Debug\net9.0\refint\Exemplos
 C:\Users\FIC\source\repos\Array_Listas\Exemplos\obj\Debug\net9.0\Exemplos.pdb
 C:\Users\FIC\source\repos\Array_Listas\Exemplos\obj\Debug\net9.0\Exemplos.genruntimeconfig.cache
 C:\Users\FIC\source\repos\Array_Listas\Exemplos\obj\Debug\net9.0\ref\Exemplos.dll
+C:\Users\FIC\source\repos\Array_Listas\Exemplos\obj\Debug\net9.0\Exemplos.sourcelink.json
